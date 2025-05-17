@@ -16,7 +16,7 @@
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
-      "value":"yes",
+      "value":"no",
       "required":false
     }, "AUTO_DOWNLOAD_STATUS":
     {
@@ -45,7 +45,7 @@
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto like status",
-      "value":"yes",
+      "value":"no",
       "required":true
     },
      "PM_PERMIT" :
@@ -72,7 +72,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -87,8 +87,8 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "description":"nexus~jBQECYJS#boK2xreS6CHzKNfg_LvD0Q6a6QH1G-05eEPkkOXAL5E",   
+      "value":"true",
       "required":true
       
     },
@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "NEXUS-AI"
+    "value": "DENBOY☆"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "desc": "263789085533",
     "required":true,
-    "value": ""
+    "value": "true"
   },
     "WARN_COUNT":
   {
